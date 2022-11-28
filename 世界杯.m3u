@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 ,抖音4K
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 ,抖音4K50P世界杯源
+http://159.75.85.63:5678/zb.php?id=douyin
+#EXTINF:-1 ,抖音世界杯4K(非直播时有广告)
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 ,广东体育
+http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 ,广州南国都市
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+#EXTINF:-1 ,广州南国都市
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 ,广东体育7
+http://113.117.74.7:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育8
+http://113.117.74.8:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育9
+http://113.117.74.9:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育10
+http://113.117.74.10:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育11
+http://113.117.74.11:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育12
+http://113.117.74.12:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育13
+http://113.117.74.13:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育14
+http://113.117.74.14:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育15
+http://113.117.74.15:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育16
+http://113.117.74.16:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育17
+http://113.117.74.17:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育18
+http://113.117.74.18:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育19
+http://113.117.74.19:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育17
+http://113.117.74.17:808/hls/1/index.m3u8
+#EXTINF:-1 ,广东体育37
+http://113.117.74.37:808/hls/1/index.m3u8
+#EXTINF:-1 ,咪咕体育-4K-HLG源
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+#EXTINF:-1 ,咪咕4K-HLG源-备用1
+http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 ,咪咕4K-HLG源-备用2
+http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 ,咪咕4K-HLG源-备用3
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 ,CCTV4K-25P-HLG源
+http://159.75.85.63:8280/cctv4k.php
+#EXTINF:-1 ,CCTV16-4K-SDR源
+http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:-1 ,CCTV16-4K-25PHLG源
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
+#EXTINF:-1 ,翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
