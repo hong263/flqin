@@ -1,6 +1,3 @@
-抖音4K,http://r.jdshipin.com/thuYX
-抖音4K50P世界杯源,http://159.75.85.63:5678/zb.php?id=douyin
-抖音世界杯4K(非直播时有广告),http://r.jdshipin.com/n90gt
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 广州南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
@@ -27,3 +24,5 @@ CCTV4K-25P-HLG源,http://159.75.85.63:8280/cctv4k.php
 CCTV16-4K-SDR源,http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台2,http://r.jdshipin.com/62WM7
+翡翠台.备用,http://r.jdshipin.com/n90gt
