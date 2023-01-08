@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,抖音4K
-http://r.jdshipin.com/thuYX
-#EXTINF:-1 ,抖音4K50P世界杯源
-http://159.75.85.63:5678/zb.php?id=douyin
-#EXTINF:-1 ,抖音世界杯4K(非直播时有广告)
-http://r.jdshipin.com/n90gt
 #EXTINF:-1 ,广东体育
 http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 ,广州南国都市
@@ -57,3 +51,7 @@ http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&live
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 ,翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 ,翡翠台2
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 ,翡翠台.备用
+http://r.jdshipin.com/n90gt
